@@ -1,0 +1,46 @@
+{
+  "slug": "fatihah",
+  "storage_key": "fatihah",
+  "domain": null,
+  "dev_port": 8767,
+  "source": "source/tafsir-fatihah-abu-malik.docx",
+  "metadata": {},
+  "title": {
+    "ar": "تفسير سورة الفاتحة",
+    "en": "Commentary on Surat al-Fatiha"
+  },
+  "subtitle": {
+    "ar": "",
+    "en": ""
+  },
+  "description": "Commentary on Surat al-Fatiha - read the book in Arabic or English.",
+  "about_book": {
+    "ar": [
+      "يتناول هذا الكتاب تفسير سورة الفاتحة آيةً آية، بدءاً بمكان نزولها وأسمائها وفضائلها وبعض لطائفها، ثم تفسير الاستعاذة والبسملة، ثم الوقوف عند كل آية من آياتها السبع، مستعيناً بأقوال المفسرين وأهل اللغة كالقرطبي وابن كثير والآلوسي وابن عاشور والرازي.",
+      "ويتوسع المؤلف في مسائل تثيرها السورة: معنى العبادة وحقيقتها وشروطها، واقتران العبادة بالاستعانة، والصراط المستقيم، وقضية الهدى والضلال بين الجبر والاختيار، وصفة المغضوب عليهم والضالين."
+    ],
+    "en": [
+      "This book is a commentary on Surat al-Fatiha, the opening chapter of the Qur’an. It begins with where the surah was revealed, its names, its merits and some of its subtleties, then explains the seeking of refuge (<em>isti‘adha</em>) and the <em>basmala</em>, and goes through each of its seven verses, drawing on commentators and linguists such as al-Qurtubi, Ibn Kathir, al-Alusi, Ibn ‘Ashur and al-Razi.",
+      "Along the way the author discusses questions the surah raises: what worship is, its reality and conditions; why worship is paired with seeking help; the Straight Path; guidance and misguidance between compulsion and free choice; and who are “those who earned anger” and “those who went astray.”"
+    ]
+  },
+  "about_author": {
+    "ar": [
+      "ثائر أحمد سلامة، أبو مالك."
+    ],
+    "en": [
+      "Thaer Salameh (Abu Malik)."
+    ]
+  },
+  "index": {
+    "first_page": null,
+    "sections": {
+      "فهرس الآيات": "verse",
+      "فهرس الأحاديث": "hadith",
+      "المحتويات": "toc"
+    },
+    "toc_overrides": {},
+    "refs_fixed": true
+  },
+  "source_pdf": "source/tafsir-fatihah-abu-malik.pdf"
+}
